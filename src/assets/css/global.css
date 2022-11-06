@@ -1,0 +1,10 @@
+body {
+    font-family:sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0 0 15px 0;
+    font-family: serif;
+}
