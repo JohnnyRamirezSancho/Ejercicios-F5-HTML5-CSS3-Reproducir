@@ -1,7 +1,14 @@
+html {
+    background: linear-gradient(#999, #fff);
+}
+
 body {
     font-family:sans-serif;
     max-width: 800px;
     margin: 0 auto;
+    color: #444;
+    background: #fff;
+    padding: 15px;
 }
 
 p {
