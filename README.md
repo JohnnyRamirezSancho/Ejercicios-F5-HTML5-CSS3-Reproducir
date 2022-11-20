@@ -1,8 +1,7 @@
 # EJERCICIO DE HTML 5 y CSS 3: Reproducir, modificar y colores
 ## PROYECTO
-<img src="http://www.johnnyramirez.es/f5/ejercicios-html5-css3-reproducir/original-1.jpg" alt="Original 1">
-<img src="http://www.johnnyramirez.es/f5/ejercicios-html5-css3-reproducir/original-2.jpg" alt="Original 2">
-<br>
+![Original 1](http://www.johnnyramirez.es/f5/ejercicios-html5-css3-reproducir/original-1.jpg)
+![Original 2](http://www.johnnyramirez.es/f5/ejercicios-html5-css3-reproducir/original-2.jpg)
 A partir de dos modelos proporcionados, se nos solicita reproducirlos.
 Posteriormente, debemos modificar el primer modelo proporcionado.
 ## PARTES DEL PROYECTO
